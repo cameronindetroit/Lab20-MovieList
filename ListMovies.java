@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
+/*
+ * Main Argumetns for a movie list made with HashMap
+ * and methods to fill the arrays in the Movie Methods File
+ */
+
 public class ListMovies {
 
 	public static void main(String[] args) {
@@ -50,7 +55,7 @@ public class ListMovies {
 		categories = MovieMethods.fillCatagory("SciFi", sciFi, categories);
 
 		System.out.println(
-				"Welcome to the Movie List Application!\n\nThere are 12 movies in this list.\nWhatcategory are you interest in?");
+				"Welcome to the Movie List Application!\n\nThere are 12 movies in this list.\nWhat category are you interest in?");
 
 		// Application Variables
 		String userInput = "";

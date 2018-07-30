@@ -8,6 +8,10 @@ import java.util.Scanner;
 public class Validator {
 
 	/**
+	 * Validators used for user input
+	 */
+
+	/**
 	 * Get any valid integer.
 	 */
 

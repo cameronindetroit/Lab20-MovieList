@@ -3,6 +3,11 @@ import java.util.HashMap;
 
 public class MovieMethods {
 
+	/*
+	 * Movie Methods for the ListMovie Main Arguments File They are not used for the
+	 * Movies By category Main arguments
+	 */
+
 	// Fill animated movies
 	public static ArrayList<String> fillAnimatedMovies(ArrayList<String> movies) {
 
